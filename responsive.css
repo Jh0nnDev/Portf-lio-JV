@@ -1,0 +1,6 @@
+/* RESPONSIVE */
+@media (max-width: 520px) {
+    .container { padding: 0 1.25rem 3rem; }
+    .hero { padding: 2rem 0 2rem; }
+    .skills-grid { grid-template-columns: repeat(2, 1fr); }
+}
